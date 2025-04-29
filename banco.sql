@@ -1,3 +1,5 @@
+-- Script para criar a tabela 'dados' no banco de dados 'meubanco'
+
 CREATE TABLE dados (
     AlunoID int,
     Nome varchar(50),
